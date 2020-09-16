@@ -1,0 +1,13 @@
+C:\Users\79509\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Army.csprojAssemblyReference.cache
+C:\Users\79509\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Army.csproj.CoreCompileInputs.cache
+C:\Users\79509\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Army.AssemblyInfoInputs.cache
+C:\Users\79509\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Army.AssemblyInfo.cs
+C:\Users\79509\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Army.exe
+C:\Users\79509\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Army.deps.json
+C:\Users\79509\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Army.runtimeconfig.json
+C:\Users\79509\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Army.runtimeconfig.dev.json
+C:\Users\79509\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Army.dll
+C:\Users\79509\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Army.pdb
+C:\Users\79509\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Army.dll
+C:\Users\79509\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Army.pdb
+C:\Users\79509\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Army.genruntimeconfig.cache
